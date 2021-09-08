@@ -1,3 +1,3 @@
-# Pong
-File Project dan Build Standalone Game Pong \n
-Aurelius Dilectio Y.D.
+# Pong - Aurelius Dilectio Y.D.
+File Project dan Build Standalone Game Pong
+
